@@ -1,5 +1,12 @@
-# Torch-Food-Recognition
-Torch demo for training squeezenet from scratch to recognize foods. 
+# Using Torch to train a Deep CNN- an example case on a food dataset
+Torch demo for training squeezenet from scratch to recognize foods.
+
+## Note: why I am using food-101
+- Is a large enough dataset, however better manageable as compared to ImageNet
+- Is better than MNIST
+- Is bettern than cats-vs-dogs
+- It is worth studying the efficiency wrt the color space
+- It is very interesting to study week localization and transfer learning.
 
 
 ## Setup 
