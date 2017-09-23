@@ -10,7 +10,7 @@ After installing all requirements follow these steps:
 <br />
 Get this repo:
 <br />
-    git clone https://github.com/dimkastan/Torch-Food-Recognition
+    git clone https://github.com/dimkastan/Torch-Train-on-food-dataset
 <br />
 <br />
 Download and extract data
